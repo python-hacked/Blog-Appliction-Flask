@@ -1,4 +1,4 @@
-## Flask Blog Application API
+## Flask Blog Application API 
 This repository contains a Flask-based API for managing a blog application. It provides endpoints for creating, reading, updating, and deleting blogs, categories, tags, users, and comments.
 
 Prerequisites
