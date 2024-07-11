@@ -9,7 +9,7 @@ pip (Python package installer)
 Docker (optional, for Docker deployment)
 
 
-git clone https://github.com/gitaleut/Satish_A1.git
+git clone https://github.com/gitaleut/python-hacked.git
 cd app
 
 # Create a virtual environment
