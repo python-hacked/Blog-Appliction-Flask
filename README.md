@@ -11,6 +11,7 @@ Docker (optional, for Docker deployment)
 
 git clone https://github.com/gitaleut/Satish_A1.git
 cd app
+pip install -r requirements.txt
 
 # Create a virtual environment
 python -m venv venv
